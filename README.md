@@ -1,4 +1,4 @@
-Hey there mate, I am Sanjyoti and I go by the username of @thedumbsloth on github.
+<h3>Hey there mate, I am Sanjyoti and I go by the username of @thedumbsloth on github.</h3>
 <hr>
 <p>
 Currently, I am a CSE Undergrad at IIIT Bhubaneswar.
