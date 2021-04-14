@@ -4,5 +4,5 @@
 Currently, I am a CSE Undergrad at IIIT Bhubaneswar.
 I like to explore different arenas of the intriguing world of Computer Science.</p>
 <p>
-Want to connect?..Drop a mail at strsanjyotidas@gmail.com
+Want to connect?..Drop a mail at strsanjyotidas@gmail.com.
 </p>
